@@ -24,5 +24,16 @@ print (cgpa)
 
 # input() a function that prompts users to enter data, it returns the data as a string
 name = input("What is your name:")
+age = int(input("what is your age:"))
 
 print(f"My name is {name}")
+
+
+#Areaof a rectangle calculation
+
+lenght = float(input("What is the Lenght:"))
+width = float(input("What is the width:"))
+
+area = lenght * width
+
+print(area)
