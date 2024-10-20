@@ -1,4 +1,4 @@
-## Python Project
+# Python Project
 
 Welcome to my Python Project repo where I build 20 project-based Python apps from scratch
 
